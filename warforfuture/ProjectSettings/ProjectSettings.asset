@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 347e8399517f098499cefd87cc8cd287
+  productGUID: 36fbe753b2142714186ae9edb1d1755e
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: waroffuture
+  productName: warforfuture
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -834,14 +834,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: waroffuture
+  metroPackageName: warforfuture
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: waroffuture
+  metroApplicationDescription: warforfuture
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -910,10 +910,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: d97cbaf7-e17a-4a06-824b-53373f9eb768
+  cloudProjectId: 4beda077-52ce-4c23-87ef-c879467603da
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: waroffuture
+  projectName: warforfuture 2024-04-23_15-37-22
   organizationId: ali-yigit-yilmaz
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
